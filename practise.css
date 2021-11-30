@@ -1,0 +1,30 @@
+.a {
+    background-color: aquamarine;
+    color: blue;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 300px;
+}
+
+.ba {
+    background-color: grey;
+    color: white;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+.bb {
+    background-color: indianred;
+    color: yellow;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+.aa {
+    background-color:thistle;
+    color:turquoise;
+    width: 50%;
+    
+}
